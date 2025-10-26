@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kmwalsh211/Documents/CURRENT CLASSES/CPSC275/Homework/HW3/bitwise'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _evenodd, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0x54 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _evenodd, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0x54 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x54, symBinAddr: 0x100003F04, symSize: 0x54 }
+...
